@@ -2,7 +2,6 @@
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\Models\ErrorViewModel.cs
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\Program.cs
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\Startup.cs
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\Jenkinsfile
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
@@ -52,4 +51,3 @@ C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\wwwroot\l
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\appsettings.Development.json
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\appsettings.json
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\Properties\launchSettings.json
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\apphost.exe
