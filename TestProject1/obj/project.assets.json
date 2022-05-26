@@ -460,6 +460,9 @@
           "build/NUnit.props": {}
         }
       },
+      "NUnit.ConsoleRunner/3.15.0": {
+        "type": "package"
+      },
       "NUnit3TestAdapter/3.17.0": {
         "type": "package",
         "dependencies": {
@@ -476,6 +479,18 @@
         "build": {
           "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
         }
+      },
+      "OpenCover/4.7.1221": {
+        "type": "package",
+        "build": {
+          "build/OpenCover.targets": {}
+        }
+      },
+      "ReportGenerator/3.1.2": {
+        "type": "package"
+      },
+      "ReportUnit/1.2.1": {
+        "type": "package"
       },
       "runtime.native.System/4.3.0": {
         "type": "package",
@@ -2199,6 +2214,74 @@
         "nunit.nuspec"
       ]
     },
+    "NUnit.ConsoleRunner/3.15.0": {
+      "sha512": "YZ/O+QzWxkvq1LV6fIa73w5bh4qg187jFcEhI0t0WF0X2YyYNPCxJvvHtfDcNKvJnj+TTjPssIcgsZnHw31bKg==",
+      "type": "package",
+      "path": "nunit.consolerunner/3.15.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "images/nunit_256.png",
+        "nunit.consolerunner.3.15.0.nupkg.sha512",
+        "nunit.consolerunner.nuspec",
+        "tools/agents/net20/nunit-agent-x86.exe",
+        "tools/agents/net20/nunit-agent-x86.exe.config",
+        "tools/agents/net20/nunit-agent.exe",
+        "tools/agents/net20/nunit-agent.exe.config",
+        "tools/agents/net20/nunit.agent.addins",
+        "tools/agents/net20/nunit.engine.api.dll",
+        "tools/agents/net20/nunit.engine.api.xml",
+        "tools/agents/net20/nunit.engine.core.dll",
+        "tools/agents/net20/testcentric.engine.metadata.dll",
+        "tools/agents/net40/nunit-agent-x86.exe",
+        "tools/agents/net40/nunit-agent-x86.exe.config",
+        "tools/agents/net40/nunit-agent.exe",
+        "tools/agents/net40/nunit-agent.exe.config",
+        "tools/agents/net40/nunit.agent.addins",
+        "tools/agents/net40/nunit.engine.api.dll",
+        "tools/agents/net40/nunit.engine.api.xml",
+        "tools/agents/net40/nunit.engine.core.dll",
+        "tools/agents/net40/testcentric.engine.metadata.dll",
+        "tools/agents/net5.0/nunit-agent.deps.json",
+        "tools/agents/net5.0/nunit-agent.dll",
+        "tools/agents/net5.0/nunit-agent.dll.config",
+        "tools/agents/net5.0/nunit-agent.runtimeconfig.json",
+        "tools/agents/net5.0/nunit.agent.addins",
+        "tools/agents/net5.0/nunit.engine.api.dll",
+        "tools/agents/net5.0/nunit.engine.api.xml",
+        "tools/agents/net5.0/nunit.engine.core.dll",
+        "tools/agents/net5.0/testcentric.engine.metadata.dll",
+        "tools/agents/net6.0/nunit-agent.deps.json",
+        "tools/agents/net6.0/nunit-agent.dll",
+        "tools/agents/net6.0/nunit-agent.dll.config",
+        "tools/agents/net6.0/nunit-agent.runtimeconfig.json",
+        "tools/agents/net6.0/nunit.agent.addins",
+        "tools/agents/net6.0/nunit.engine.api.dll",
+        "tools/agents/net6.0/nunit.engine.api.xml",
+        "tools/agents/net6.0/nunit.engine.core.dll",
+        "tools/agents/net6.0/testcentric.engine.metadata.dll",
+        "tools/agents/netcoreapp3.1/nunit-agent.deps.json",
+        "tools/agents/netcoreapp3.1/nunit-agent.dll",
+        "tools/agents/netcoreapp3.1/nunit-agent.dll.config",
+        "tools/agents/netcoreapp3.1/nunit-agent.runtimeconfig.json",
+        "tools/agents/netcoreapp3.1/nunit.agent.addins",
+        "tools/agents/netcoreapp3.1/nunit.engine.api.dll",
+        "tools/agents/netcoreapp3.1/nunit.engine.api.xml",
+        "tools/agents/netcoreapp3.1/nunit.engine.core.dll",
+        "tools/agents/netcoreapp3.1/testcentric.engine.metadata.dll",
+        "tools/nunit.console.nuget.addins",
+        "tools/nunit.engine.api.dll",
+        "tools/nunit.engine.api.xml",
+        "tools/nunit.engine.core.dll",
+        "tools/nunit.engine.dll",
+        "tools/nunit3-console.exe",
+        "tools/nunit3-console.exe.config",
+        "tools/testcentric.engine.metadata.dll"
+      ]
+    },
     "NUnit3TestAdapter/3.17.0": {
       "sha512": "I9MNvK+GM2yXrHPitwZkAZKU9sYI2OO/8wKC+VuBD7V3z+ySQ1pSopX/urr0ooedI8/TIcajYPRO4vGRr7AM8A==",
       "type": "package",
@@ -2221,6 +2304,109 @@
         "build/netcoreapp2.1/nunit.engine.dll",
         "nunit3testadapter.3.17.0.nupkg.sha512",
         "nunit3testadapter.nuspec"
+      ]
+    },
+    "OpenCover/4.7.1221": {
+      "sha512": "XZsMfTpbGnqLWCQjOeLlbDUU0lazJHbyEX52d7oRSuQX7Ve+23nfk4TF/F61hS382IEHB8WvUwkPB2IIA9WqEQ==",
+      "type": "package",
+      "path": "opencover/4.7.1221",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.rtf",
+        "build/OpenCover.MSBuild.dll",
+        "build/OpenCover.targets",
+        "docs/ReleaseNotes.txt",
+        "docs/Usage.rtf",
+        "opencover.4.7.1221.nupkg.sha512",
+        "opencover.nuspec",
+        "readme_with_releasenotes.txt",
+        "tools/Autofac.Configuration.dll",
+        "tools/Autofac.dll",
+        "tools/Gendarme.Framework.dll",
+        "tools/Gendarme.Rules.Maintainability.dll",
+        "tools/Microsoft.Bcl.AsyncInterfaces.dll",
+        "tools/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "tools/Microsoft.Extensions.Configuration.Binder.dll",
+        "tools/Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "tools/Microsoft.Extensions.Configuration.Json.dll",
+        "tools/Microsoft.Extensions.Configuration.dll",
+        "tools/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "tools/Microsoft.Extensions.FileProviders.Physical.dll",
+        "tools/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "tools/Microsoft.Extensions.Primitives.dll",
+        "tools/Mono.Cecil.Mdb.dll",
+        "tools/Mono.Cecil.Pdb.dll",
+        "tools/Mono.Cecil.Rocks.dll",
+        "tools/Mono.Cecil.dll",
+        "tools/Newtonsoft.Json.dll",
+        "tools/OpenCover.Console.exe",
+        "tools/OpenCover.Console.exe.config",
+        "tools/OpenCover.Console.pdb",
+        "tools/OpenCover.Extensions.dll",
+        "tools/OpenCover.Extensions.pdb",
+        "tools/OpenCover.Framework.dll",
+        "tools/OpenCover.Framework.pdb",
+        "tools/SampleSln/SampleSln.zip",
+        "tools/Samples/x64/OpenCover.Simple.Target.exe",
+        "tools/Samples/x64/OpenCover.Simple.Target.pdb",
+        "tools/Samples/x86/OpenCover.Simple.Target.exe",
+        "tools/Samples/x86/OpenCover.Simple.Target.pdb",
+        "tools/Sentry.PlatformAbstractions.dll",
+        "tools/Sentry.Protocol.dll",
+        "tools/Sentry.dll",
+        "tools/System.Buffers.dll",
+        "tools/System.Collections.Immutable.dll",
+        "tools/System.Diagnostics.DiagnosticSource.dll",
+        "tools/System.Memory.dll",
+        "tools/System.Numerics.Vectors.dll",
+        "tools/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/System.Text.Encodings.Web.dll",
+        "tools/System.Text.Json.dll",
+        "tools/System.Threading.Tasks.Extensions.dll",
+        "tools/System.ValueTuple.dll",
+        "tools/autofac.json",
+        "tools/log4net.config",
+        "tools/log4net.dll",
+        "tools/transform/simple_report.xslt",
+        "tools/transform/transform.ps1",
+        "tools/x64/OpenCover.Profiler.dll",
+        "tools/x86/OpenCover.Profiler.dll"
+      ]
+    },
+    "ReportGenerator/3.1.2": {
+      "sha512": "KHm2RNSAs14QOr9SK2uhHFi3BuUDo1QAwDASj/So6aLZmoLEf4Wtkr1jQoJFn0ihW9Dw9/VdHdGYrw+KKvcxmQ==",
+      "type": "package",
+      "path": "reportgenerator/3.1.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "Readme.txt",
+        "reportgenerator.3.1.2.nupkg.sha512",
+        "reportgenerator.nuspec",
+        "tools/ICSharpCode.NRefactory.CSharp.dll",
+        "tools/ICSharpCode.NRefactory.dll",
+        "tools/ReportGenerator.Reporting.XML",
+        "tools/ReportGenerator.Reporting.dll",
+        "tools/ReportGenerator.XML",
+        "tools/ReportGenerator.exe",
+        "tools/ReportGenerator.exe.config"
+      ]
+    },
+    "ReportUnit/1.2.1": {
+      "sha512": "68aP9jbHZfxJU2s0tEG/SnKcKBabq/EiP+CwwaqfqvfxqjC/cE8FzB7nAOTFjaCnFD0wu94g6LraFCkM3cW8nw==",
+      "type": "package",
+      "path": "reportunit/1.2.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "reportunit.1.2.1.nupkg.sha512",
+        "reportunit.nuspec",
+        "tools/ReportUnit.exe"
       ]
     },
     "runtime.native.System/4.3.0": {
@@ -4966,7 +5152,11 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
+      "NUnit.ConsoleRunner >= 3.15.0",
       "NUnit3TestAdapter >= 3.17.0",
+      "OpenCover >= 4.7.1221",
+      "ReportGenerator >= 3.1.2",
+      "ReportUnit >= 1.2.1",
       "WebApplication1 >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
@@ -5027,9 +5217,25 @@
             "target": "Package",
             "version": "[3.13.1, )"
           },
+          "NUnit.ConsoleRunner": {
+            "target": "Package",
+            "version": "[3.15.0, )"
+          },
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[3.17.0, )"
+          },
+          "OpenCover": {
+            "target": "Package",
+            "version": "[4.7.1221, )"
+          },
+          "ReportGenerator": {
+            "target": "Package",
+            "version": "[3.1.2, )"
+          },
+          "ReportUnit": {
+            "target": "Package",
+            "version": "[1.2.1, )"
           },
           "coverlet.collector": {
             "target": "Package",

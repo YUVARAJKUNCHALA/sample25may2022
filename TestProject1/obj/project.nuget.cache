@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3d4Zm6YIs41dwfqqk/0nFjtIPqL5St4K6C2SnirjX8A9qvaSu9yQ/6aFIUs8hDOaKTKdILO8U/x6SG1OhxIa2g==",
+  "dgSpecHash": "zVidLnyf18Pqd5dV3ZI+lIDeo35xNiZDZf8R8P5gTn52EJ8MrZz1aHqS2guI1J/hBr/tbBab3hvFAj4FMwvinQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gayat\\OneDrive\\Desktop\\Sample\\WebApplication1\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,11 @@
     "C:\\Users\\gayat\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\nunit.consolerunner\\3.15.0\\nunit.consolerunner.3.15.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\reportgenerator\\3.1.2\\reportgenerator.3.1.2.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\reportunit\\1.2.1\\reportunit.1.2.1.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
