@@ -1,14 +1,14 @@
 REM Path variables
  SET FolderPath=%1
- SET ResultsPath=C:\UnitTestResults
- SET CoverageHistoryPath=C:\CoverageHistory
+ SET ResultsPath=D:\UnitTestResults
+ SET CoverageHistoryPath=D:\CoverageHistory
  
- SET NunitPath=%FolderPath%\packages\NUnit.ConsoleRunner.3.5.0\tools
- SET ReportUnitPath=%FolderPath%\packages\ReportUnit.1.5.0-beta1\tools
- SET OpenCoverPath=%FolderPath%\packages\OpenCover.4.6.519\tools
- SET ReportGeneratorPath=%FolderPath%\packages\ReportGenerator.2.4.5.0\tools
+ SET NunitPath=%FolderPath%\packages\NUnit.ConsoleRunner.3.15.0\tools
+ SET ReportUnitPath=%FolderPath%\packages\ReportUnit.1.2.1\tools
+ SET OpenCoverPath=%FolderPath%\packages\OpenCover.4.67.1221\tools
+ SET ReportGeneratorPath=%FolderPath%\packages\ReportGenerator.3.1.2\tools
  
- SET UnitTestProj=%FolderPath%\MyProject.UnitTests\MyProject.UnitTests.csproj
+ SET UnitTestProj=%FolderPath%\WebApplication1\TestProject1.csproj
  
  REM Recreate Results Folder
  rd /S /Q %ResultsPath%
