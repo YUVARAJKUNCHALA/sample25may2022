@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CuRxYBrug861gS1Gepqr0s0mgmSSigUwFwYR/CLb5MPwJP/wreEvcjaRvl4fHX1z1fWKmU6sqSxo6DJmgeK71Q==",
+  "dgSpecHash": "rCcIAPpDvqvt2IN9nxUIFVb1+s56l8KwFgOpHCx4VXw3EdRutiTB0naVBo7wdFnQ4Pn11R6zoKJufeemdSezhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\gayat\\OneDrive\\Desktop\\Sample\\WebApplication1\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,6 @@
     "C:\\Users\\gayat\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
-    "C:\\Users\\gayat\\.nuget\\packages\\nunit.consolerunner\\3.15.0\\nunit.consolerunner.3.15.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
