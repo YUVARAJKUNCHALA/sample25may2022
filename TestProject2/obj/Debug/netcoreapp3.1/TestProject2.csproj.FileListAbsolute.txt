@@ -95,3 +95,14 @@ C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\obj\Debug\ne
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\obj\Debug\netcoreapp3.1\TestProject2.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\obj\Debug\netcoreapp3.1\TestProject2.pdb
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\obj\Debug\netcoreapp3.1\TestProject2.genruntimeconfig.cache
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject2\bin\Debug\netcoreapp3.1\WebApplication1.pdb
