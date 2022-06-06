@@ -1,4 +1,3 @@
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
@@ -10,18 +9,12 @@ C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\ne
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\WebApplication1.exe
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\nunit.engine.dll
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\TestProject1.deps.json
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\TestProject1.runtimeconfig.json
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\TestProject1.runtimeconfig.dev.json
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\TestProject1.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\TestProject1.pdb
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
@@ -31,7 +24,6 @@ C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\ne
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\nunit.framework.dll
-C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\TestProject1\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
