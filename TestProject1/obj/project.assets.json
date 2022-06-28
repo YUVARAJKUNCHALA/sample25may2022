@@ -871,7 +871,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "WebApplication1/1.0.0": {
+      "WebApplication1/2.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
@@ -3713,7 +3713,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "WebApplication1/1.0.0": {
+    "WebApplication1/2.0.0": {
       "type": "project",
       "path": "../WebApplication1/WebApplication1.csproj",
       "msbuildProject": "../WebApplication1/WebApplication1.csproj"
@@ -3723,7 +3723,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
-      "WebApplication1 >= 1.0.0"
+      "WebApplication1 >= 2.0.0"
     ]
   },
   "packageFolders": {

@@ -15,7 +15,12 @@
       "ProjectGuid": "5eb27a05-ae78-4eae-8c6f-5b92220f4ca3",
       "DisplayName": "TestProject1",
       "ColorIndex": 1
+    },
+    "5c800205-6546-4af2-acd2-104ecfcdd954": {
+      "ProjectGuid": "5c800205-6546-4af2-acd2-104ecfcdd954",
+      "DisplayName": "TestProject2",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

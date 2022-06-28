@@ -1661,7 +1661,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "WebApplication1/1.0.0": {
+      "WebApplication1/2.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
@@ -6117,7 +6117,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "WebApplication1/1.0.0": {
+    "WebApplication1/2.0.0": {
       "type": "project",
       "path": "../WebApplication1/WebApplication1.csproj",
       "msbuildProject": "../WebApplication1/WebApplication1.csproj"
@@ -6128,7 +6128,7 @@
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "WebApplication1 >= 1.0.0",
+      "WebApplication1 >= 2.0.0",
       "coverlet.collector >= 3.0.2"
     ]
   },
