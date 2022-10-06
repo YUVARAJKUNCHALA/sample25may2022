@@ -1,0 +1,11 @@
+---
+- name: Unzip the repo files
+  hosts: localhost
+
+  tasks:
+     - name: Unarchive a file with extra options
+       become: true
+       ansible.builtin.unarchive:
+          src: master.zip
+          dest: /opt/playbooks
+...
