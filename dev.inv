@@ -1,0 +1,2 @@
+[webservers]
+3.145.215.6  ansible_user=ansibleadmin
